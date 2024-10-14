@@ -21,11 +21,15 @@ Con ella se dio respuesta a las siguientes preguntas:
 
 ![image](https://github.com/user-attachments/assets/10413f17-0d73-4242-bbdd-eec3d30e422b)
 
+Apesar de ser una plataforma reconocida para la reproducción de musica, no es la más utilizada para eso.
+
 2.- ¿Cuáles son los videos más reproducidos y con más "Me gusta"  en YouTube?
 
 ![image](https://github.com/user-attachments/assets/15e79f51-9c81-44ba-873e-6e747199bd59)
 
 ![image](https://github.com/user-attachments/assets/058f5578-8d20-41e5-adfb-e060bc712c65)
+
+Una plataforma que sigue jugando un papel importante no solo en la reproducción de contenido sino en la creacción del mismo dejando claro su presencia. 
 
 3.- ¿Cuáles son las canciones con más vistas y utilizadas para hacer contenido en TikTok?
 
@@ -33,13 +37,17 @@ Con ella se dio respuesta a las siguientes preguntas:
 
 ![image](https://github.com/user-attachments/assets/d8f31cda-5f5d-4282-979b-f9050c0cb406)
 
+No tiene nada que ver la reprodución y el uso varian mucho entre ellos y eso muestrta el compartamiento de consumo de los consumidores.
+
 4.- ¿Qué artistas siguen activos y con mayor participación en el top 15?
 
-![image](https://github.com/user-attachments/assets/a75c4771-1ed3-41b1-b993-f9714de24ddc)
+![image](https://github.com/user-attachments/assets/e3801f04-e7f3-4df1-a3ad-c8d7b90a69f9)
 
 5.-¿Cuáles son las canciones con calificación más alta de popularidad?
 
-![image](https://github.com/user-attachments/assets/c22a7b6d-15e1-474a-8d85-5ee032677d97)
+![image](https://github.com/user-attachments/assets/c8668afb-d45b-4a7f-827e-4de0d3669416)
+
+Se puede observar que casi son iguales los indices, pues la popularidad de los artistas van a la par de sus canciones pero que no todos cumplen con esa regla. 
 
 6.- ¿Qué álbum tiene más número de canciones?
 
@@ -48,6 +56,8 @@ Con ella se dio respuesta a las siguientes preguntas:
 7.- Siendo YouTube, TikTok y Spotify las plataformas más utilizadas ¿Cuál es el promedio de uso?
 
 ![image](https://github.com/user-attachments/assets/8f639260-8e18-4ff3-aa2a-e74efb3a0f8f)
+
+Se puede observar que TikTok es la plataforma con más reproducción y uso de canciones para crear contenido que las otras plataformas. 
 
 Entre otras preguntas que se pueden visualizar de manera mas detallada en el dashboar de Tableau (https://public.tableau.com/views/Libro3_17286266414780/LaImportanciadelaMsicaenlaindutriaMusical?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
